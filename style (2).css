@@ -1,0 +1,38 @@
+.container {
+  width: 1600px;
+  padding: 20px;
+  background-color: darksalmon;
+  border-radius: 20px;
+  height: 700px; /* Added to reduce container height */
+  border-color: black;
+  border: 25px;
+}
+
+.hero-section {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+padding-top: 20px;
+height: 85vh;
+}
+.img-fluid {
+  width: 500px;
+  height: 450px;
+  border-radius: 20px;
+  display: flex;
+  margin-right:800px;
+  margin-bottom: 100px;
+  padding: 50px;
+}
+.description {
+    margin-left: 800px;
+    margin-top: -600px;
+}
+h1 {
+    width: 390px;
+    margin-right: 500px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    justify-content:center;
+}
